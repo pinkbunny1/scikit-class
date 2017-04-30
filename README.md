@@ -1,3 +1,5 @@
+After-workshop revision. Compiled the steps of Scikit Class into one "Tweets Sentiment Analysis" using Jupyter notebook.
+
 # scikit-class
 
 Order of operations!
